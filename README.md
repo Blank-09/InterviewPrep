@@ -1,6 +1,6 @@
 # InterviewPrep 🚀
 
-[![GitHub license](https://img.shields.io/github/license/Blank-09/InterviewPrep)](https://github.com/Blank-09/InterviewPrep/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Blank-09/InterviewPrep)](https://github.com/Blank-09/InterviewPrep/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Blank-09/InterviewPrep)](https://github.com/Blank-09/InterviewPrep/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Blank-09/InterviewPrep)](https://github.com/Blank-09/InterviewPrep/stargazers)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Blank-09/InterviewPrep)
