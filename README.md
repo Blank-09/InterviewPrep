@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# InterviewPrep 🚀
 
-## Getting Started
+[![GitHub license](https://img.shields.io/github/license/Blank-09/InterviewPrep)](https://github.com/Blank-09/InterviewPrep/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Blank-09/InterviewPrep)](https://github.com/Blank-09/InterviewPrep/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Blank-09/InterviewPrep)](https://github.com/Blank-09/InterviewPrep/stargazers)
+![GitHub last commit](https://img.shields.io/github/last-commit/Blank-09/InterviewPrep)
 
-First, run the development server:
+<p align="center">
+  <!-- <img src="path/to/your/image.png" alt="InterviewPrep Logo" width="300" height="200"> -->
+  <h3 align="center">InterviewPrep</h3>
+  <p align="center">
+    Resources to help you prepare for your next interview!
+    <br />
+    <a href="https://github.com/Blank-09/InterviewPrep"
+    ><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="">View Demo</a>
+    ·
+    <a href="https://github.com/Blank-09/InterviewPrep/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Blank-09/InterviewPrep/issues">Request Feature</a>
+</p>
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Working of the Project](#working-of-the-project)
+- [Installation Guide](#installation-guide)
+- [Contributing Guidelines](#contributing-guidelines)
+- [License](#license)
+
+## About the Project
+
+**InterviewPrep** is a Next.js-based website dedicated to helping users prepare for interviews. It provides a comprehensive set of resources, including interview questions, solutions, and tips to help users succeed in their job interviews.
+
+## Working of the Project
+
+Describe how the project works and any key features. You can include information about how users can navigate through the site, the technologies used, and any other relevant details.
+
+## Installation
+
+Clone the repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Blank-09/InterviewPrep.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Navigate to the project directory
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+cd InterviewPrep
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Install dependencies
 
-## Learn More
+```bash
+pnpm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+Start the development server
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+pnpm dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing Guidelines
 
-## Deploy on Vercel
+🤝 We welcome contributions from the community! If you'd like to contribute to **InterviewPrep**, please follow our [Contributing Guidelines](CONTRIBUTING.md).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the [MIT License](LICENSE).
